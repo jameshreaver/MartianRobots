@@ -1,0 +1,4 @@
+2 2 E 
+2 4 N LOST
+2 2 W 
+0 0 S LOST
