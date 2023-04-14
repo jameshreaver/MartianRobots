@@ -42,4 +42,4 @@ Feeding this input to the program will yield the expected result:
 0 0 S LOST
 ```
 ##
-This program was developed by Giacomo Guerci in November 2016 at Imperial College London. The code is provided without a licence and all the rights are reserved.
+This program was developed by James Reaver in November 2016 at Imperial College London. The code is provided without a licence and all the rights are reserved.
